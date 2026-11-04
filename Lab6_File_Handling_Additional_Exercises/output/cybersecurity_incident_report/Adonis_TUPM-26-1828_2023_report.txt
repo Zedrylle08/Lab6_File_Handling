@@ -1,0 +1,26 @@
+CYBERSECURITY INCIDENT REPORT
+Student: Adonis (TUPM-26-1828)
+Target year: 2023
+Total dataset records: 3000
+Incidents in target year: 315
+Invalid target-year records skipped: 0
+Attack counts:
+  DDoS: 51
+  Malware: 55
+  Man-in-the-Middle: 50
+  Phishing: 46
+  Ransomware: 50
+  SQL Injection: 63
+Total financial loss (USD millions): 15958.08
+Average financial loss (USD millions): 50.66
+Five costliest incidents:
+  1. Australia | Malware | Retail | $99.72 million
+  2. France | Man-in-the-Middle | Telecommunications | $99.71 million
+  3. USA | DDoS | IT | $99.64 million
+  4. Australia | DDoS | IT | $99.62 million
+  5. Australia | SQL Injection | Healthcare | $99.19 million
+Filtered CSV: Adonis_TUPM-26-1828_2023_incidents.csv (12270 bytes)
+JSON summary: Adonis_TUPM-26-1828_2023_summary.json (72168 bytes)
+JSON backup: Adonis_TUPM-26-1828_2023_summary.json (72168 bytes)
+JSON backup verified: True
+Findings archive: Adonis_TUPM-26-1828_2023_findings.zip

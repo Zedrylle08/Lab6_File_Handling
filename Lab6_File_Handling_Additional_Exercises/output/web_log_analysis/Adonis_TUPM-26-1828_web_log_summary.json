@@ -1,0 +1,43 @@
+{
+    "last_name": "Adonis",
+    "student_id": "TUPM-26-1828",
+    "records_requested": 1027,
+    "records_processed": 1027,
+    "valid_records": 1027,
+    "invalid_records": 0,
+    "target_status_class": "2xx",
+    "records_in_target_class": 857,
+    "status_code_counts": {
+        "200": 849,
+        "206": 8,
+        "302": 144,
+        "304": 21,
+        "404": 5
+    },
+    "top_5_urls_in_target_class": [
+        {
+            "url": "/login.php",
+            "requests": 106
+        },
+        {
+            "url": "/home.php",
+            "requests": 91
+        },
+        {
+            "url": "/css/normalize.css",
+            "requests": 39
+        },
+        {
+            "url": "/css/bootstrap.min.css",
+            "requests": 38
+        },
+        {
+            "url": "/css/font-awesome.min.css",
+            "requests": 37
+        }
+    ],
+    "filtered_csv_file": "C:\\Users\\Zedrylle\\Lab6_File_Handling_Adonis\\Lab6_File_Handling_Additional_Exercises\\output\\web_log_analysis\\Adonis_TUPM-26-1828_2xx_requests.csv",
+    "summary_json_file": "C:\\Users\\Zedrylle\\Lab6_File_Handling_Adonis\\Lab6_File_Handling_Additional_Exercises\\output\\web_log_analysis\\Adonis_TUPM-26-1828_web_log_summary.json",
+    "backup_json_file": "C:\\Users\\Zedrylle\\Lab6_File_Handling_Adonis\\Lab6_File_Handling_Additional_Exercises\\backup\\web_log_analysis\\Adonis_TUPM-26-1828_web_log_summary.json",
+    "backup_verified": true
+}

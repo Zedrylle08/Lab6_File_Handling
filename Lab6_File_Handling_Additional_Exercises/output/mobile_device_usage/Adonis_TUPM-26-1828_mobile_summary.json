@@ -1,0 +1,19 @@
+{
+    "last_name": "Adonis",
+    "student_id": "TUPM-26-1828",
+    "operating_system": "Android",
+    "target_behavior_class": 4,
+    "total_records_in_dataset": 700,
+    "records_matching_operating_system": 554,
+    "records_in_target_behavior_class": 110,
+    "invalid_records_skipped": 0,
+    "average_battery_drain_mah_per_day": 2101.2181818181816,
+    "average_data_usage_mb_per_day": 1235.0727272727272,
+    "exported_csv_row_count": 110,
+    "count_verified": true,
+    "exported_csv_file": "C:\\Users\\Zedrylle\\Lab6_File_Handling_Adonis\\Lab6_File_Handling_Additional_Exercises\\output\\mobile_device_usage\\Adonis_TUPM-26-1828_mobile_users.csv",
+    "summary_json_file": "C:\\Users\\Zedrylle\\Lab6_File_Handling_Adonis\\Lab6_File_Handling_Additional_Exercises\\output\\mobile_device_usage\\Adonis_TUPM-26-1828_mobile_summary.json",
+    "backup_csv_file": "C:\\Users\\Zedrylle\\Lab6_File_Handling_Adonis\\Lab6_File_Handling_Additional_Exercises\\backup\\mobile_device_usage\\Adonis_TUPM-26-1828_mobile_users.csv",
+    "backup_size_bytes": 4188,
+    "backup_verified": true
+}
