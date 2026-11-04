@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Adonis
+Student ID: TUPM-26-1828
+Seed Digit: 8
+ID Sum: 27
+Verification Value: 170
+Dataset Sample Size: 77
+Valid Records: 77
+Average Global Active Power: 3.995
+JSON File: Adonis_TUPM-26-1828_record.json
+Backup File: Adonis_TUPM-26-1828_record.csv

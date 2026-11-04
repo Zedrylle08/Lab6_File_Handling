@@ -1,0 +1,5 @@
+Student: Adonis
+Student ID: TUPM-26-1828
+Seed digit: 8
+ID sum: 27
+Verification value: 170
